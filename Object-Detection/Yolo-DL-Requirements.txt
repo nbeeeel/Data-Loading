@@ -1,0 +1,11 @@
+ipython = 7.9.0
+os
+pillow = 7.1.2
+shutil
+scikit-learn = 1.0.2
+sklearn-pandas = 1.8.0
+random
+matplotlib = 3.2.2
+numpy = 1.21.6
+tqdm = 4.64.1
+et-xmlfile = 1.1.0
